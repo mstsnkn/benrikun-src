@@ -50,7 +50,7 @@ javascript:(function(){'use strict';const CONFIG={ui:{dialogWidth:'min(720px, 95
 
 2. ブックマークバーで右クリック→「ページを追加」
 
-3. 名前に「SharePoint コピー」、URLに上記のコードを貼り付け
+3. 名前は任意で、URLに上記のコードを貼り付け
 
 4. 保存
 
@@ -60,7 +60,7 @@ javascript:(function(){'use strict';const CONFIG={ui:{dialogWidth:'min(720px, 95
 
 2. お気に入りバーで右クリック→「お気に入りを追加」
 
-3. 名前に「SharePoint コピー」、URLに上記のコードを貼り付け
+3. 名前は任意で、URLに上記のコードを貼り付け
 
 4. 保存
 
